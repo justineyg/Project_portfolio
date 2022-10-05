@@ -33,7 +33,7 @@ export default function Home({portfolios}) {
     return (
       <HomeStyle>
         <>
-          <h1>Portfolio de Justine</h1>
+          <h1>Portfolio de Justine YANG</h1>
           <Image 
           src="/img/justine.JPG"
           width={300} height={200}
